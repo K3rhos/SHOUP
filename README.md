@@ -2,7 +2,7 @@
 
 SHOUP (Script Hook Online Universal Patcher) is a tool to bypass online access restriction from ScriptHookV &amp; ScriptHookRDR2 made by <a href="http://www.dev-c.com/">Alexander Blade</a>.
 
-![SHOUP_l8zdrw3w3v](https://raw.githubusercontent.com/K3rhos/SHOUP/main/SHOUP_l8zdrw3w3v.png)
+![SHOUP_yuvqsLY99W](https://raw.githubusercontent.com/K3rhos/SHOUP/main/SHOUP_yuvqsLY99W.png)
 
 # How it works ?
 
