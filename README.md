@@ -6,7 +6,7 @@ SHOUP (Script Hook Online Universal Patcher) is a tool created to bypass online 
 
 # How it works ?
 
-Create a folder, drag and drop "SHOUP.exe" in this one, as well as <a href="http://www.dev-c.com/gtav/scripthookv/">ScriptHookV.dll</a> and/or <a href="http://www.dev-c.com/rdr2/scripthookrdr2/">ScriptHookRDR2.dll</a>, launch "SHOUP.exe", select the option you want and enjoy :)
+Create a folder, drag and drop "SHOUP.exe" in this one, as well as <a href="http://www.dev-c.com/gtav/scripthookv/">ScriptHookV.dll</a> and/or <a href="http://www.dev-c.com/rdr2/scripthookrdr2/">ScriptHookRDR2.dll</a>, launch "SHOUP.exe", select the option you want and enjoy 👍
 
 # Disclamer
 
