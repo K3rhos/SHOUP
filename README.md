@@ -10,4 +10,4 @@ Create a folder, drag and drop "SHOUP.exe" in this one, as well as <a href="http
 
 # • Disclamer
 
-This project was made for fun & personal purpose only. Use it as your own risk, we are not responsible of any bans this could lead to.
+This project was made for fun & personal purpose only. Use it as your own risk, I'm not responsible of any bans this could lead to.
